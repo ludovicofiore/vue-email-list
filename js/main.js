@@ -25,6 +25,7 @@ createApp({
                 console.log(this.emailList);
             })
         }
+
         
     }
 }).mount("#app");
